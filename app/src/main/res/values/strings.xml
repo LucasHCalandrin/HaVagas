@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">HaVagas</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="email">E-mail</string>
+    <string name="atualizacoes_oportunidades">Deseja receber e-mails com atualizações de oportunidades ?</string>
+    <string name="telefone">Telefone</string>
+    <string name="residencial">Residencial</string>
+    <string name="comercial">Comercial</string>
+    <string name="telefone_celular">Telefone Celular</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="sexo">Sexo</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="formacao">Formação</string>
+    <string name="ano_de_formatura">Ano de Formatura</string>
+    <string name="ano_de_conclusao">Ano de Conclusão</string>
+    <string name="instituicao">Instituição</string>
+    <string name="titulo_de_monografia">Título de Monografia</string>
+    <string name="orientador">Orientador</string>
+    <string name="vagas_de_interesse">Vagas de Interesse</string>
+    <string name="salvar">Salvar</string>
+    <string name="limpar">Limpar</string>
+    <string name="adicionar_celular">Deseja Adicionar um Celular ?</string>
+    <string-array name="formacoes">
+        <item> </item>
+        <item>Fundamental</item>
+        <item>Médio</item>
+        <item>Graduação</item>
+        <item>Especialização</item>
+        <item>Mestrado</item>
+        <item>Doutorado</item>
+    </string-array>
+    <string-array name="addCelular">
+        <item>Não Adicionar</item>
+        <item>Adicionar</item>
+    </string-array>
+</resources>
